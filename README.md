@@ -5,11 +5,11 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 
 
 <br>
-<a href='https://replacord.github.io/app/?id=1&serverid=replacord'>Replacord - Server</a>
+[Replacord - Server](https://replacord.github.io/chatapp/?serverid=chatroom1)
 <br>
-<a href='https://replacord.github.io'>Replacord - Web App</a>
+[Replacord - Server](https://replacord.github.io/)
 <br>
-<a href='https://github.com/replacord/desktop/releases'>Replacord Latest - Download</a>
+[Replacord - Download](https://github.com/replacord/desktop/releases)
 
 
 # Replacord 4.0
