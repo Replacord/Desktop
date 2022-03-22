@@ -7,7 +7,7 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <br>
 [Replacord - Server](https://replacord.github.io/chatapp/?serverid=chatroom1)
 <br>
-[Replacord - Server](https://replacord.github.io/)
+[Replacord - Server](https://replacord.github.io/chatapp/?serverid=chatroom1)
 <br>
 [Replacord - Download](https://github.com/replacord/desktop/releases)
 
@@ -21,13 +21,16 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <br />
 <br />
 
-Html `1%` 
+Python `60%` 
 <br />
 
-CSS `3%` 
+Html `20%` 
 <br />
 
-JS `96%` 
+CSS `5%` 
+<br />
+
+JS `10%` 
 <br />
 <br />
 ###########################
