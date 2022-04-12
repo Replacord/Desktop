@@ -3,11 +3,10 @@
 Replacord is a chating platorm made with Html, Css,and Js and only one person is making this application @Zombiefiedgamingyt
 Replacord is Still in its bata Stages if you want to support replacord <a href='https://www.patreon.com/replacord?fan_landing=true'>Click Here</a>
 
-
 <br>
-[Replacord - Server](https://replacord.github.io/chatapp/?serverid=chatroom1)
+[Replacord V](https://replacord.github.io/)
 <br>
-[Replacord - Server](https://replacord.github.io/chatapp/?serverid=chatroom1)
+[Replacord 4](https://replacord.github.io/Replacord-v4)
 <br>
 [Replacord - Download](https://github.com/replacord/desktop/releases)
 
